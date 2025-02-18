@@ -1,0 +1,4 @@
+.alert {
+    margin: 0 auto; /* Center the alert */
+    width: fit-content; /* Adjust width if needed */
+}
